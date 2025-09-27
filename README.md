@@ -1,7 +1,7 @@
 # Decision-Making Visualization Platform for Autonomous Agents (xAI)
 
 Welcome to the **Decision-Making Visualization Platform for Autonomous Agents (xAI)**!  
-This project provides an interactive and intuitive platform for visualizing and understanding the decision-making processes of autonomous agents using explainable AI (xAI) techniques.
+This is an unsupervised machine learning project provides an interactive and intuitive platform for visualizing and understanding the decision-making processes of autonomous agents using explainable AI (xAI) techniques.
 
 ---
 
