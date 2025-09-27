@@ -50,12 +50,26 @@ This project provides an interactive and intuitive platform for visualizing and 
       ```
 
     > **Tip:** The notebook will usually print the external URL for you once the app is running.
-
-4. **Click the generated link** to access your interactive visualization dashboard in a new browser tab.
-
 ---
 
 <img width="1905" height="978" alt="image" src="https://github.com/user-attachments/assets/d05cfcfb-7ce3-4042-8a6d-bc965f6aefaa" />
+
+4. **Click the generated ngrok web server link** to access your interactive visualization dashboard from any device!
+
+---
+
+## 🌐 About ngrok Web Server
+
+To enable external access to the Streamlit app running in Colab, **ngrok** is used to create a public tunnel to port `8501`.  
+- This automatically generates a public URL (like `https://bd3eab6dcb0c.ngrok-free.app/`) which you can use to access the Streamlit app in your browser.
+- Ngrok is started and managed automatically by the Colab notebook—no manual setup required!
+- This requires authentication token inorder to successfully run the app on desired port number.
+
+**Why ngrok?**
+- Google Colab notebooks run in a temporary cloud VM with no direct public access.
+- Ngrok solves this by creating a secure tunnel from the Colab VM to the web, making your app instantly shareable.
+
+---
 
 
 ## 📊 Example Use Cases
