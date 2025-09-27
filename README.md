@@ -83,18 +83,104 @@ To enable external access to the Streamlit app running in Colab, **ngrok** is us
 ## 💻 Technologies Used
 
 - **Python**
+- Machine Learning
 - **Streamlit** (for UI)
 - **Colab/Jupyter**
 - **xAI Libraries**
 
 ---
 
-## ✨ Screenshots
+🎤 Complete Streamlit dashboard implementation and remaining components got added here to make this as a fully functional end-to-end system. 
 
-> Add your screenshots here!  
-> ![Screenshot Placeholder](https://via.placeholder.com/800x400.png?text=Visualization+Dashboard+Screenshot)
+Comprehensive, production-ready **Decision-Making Visualization Platform for Autonomous Agents** using unsupervised ML. 
 
----
+###Here's what this complete end-to-end system includes: 🔽
+
+## 🎯 **Core Features**
+
+### **1. Data Simulation & Management**
+- Multi-agent decision simulation (5 different agent types)
+- SQLite database for persistent storage
+- Real-time decision generation with bias injection
+- Context-aware decision making (high-stakes, routine, emergency, collaborative)
+
+### **2. Unsupervised ML Analysis**
+- **K-Means Clustering**: Identifies bias patterns in agent behavior
+- **DBSCAN**: Density-based clustering for anomaly detection
+- **Isolation Forest**: Detects outlier decisions
+- **PCA, t-SNE, UMAP**: Dimensionality reduction for visualization
+- **Silhouette Analysis**: Optimal cluster validation
+
+### **3. Fairness Analysis**
+- Demographic parity assessment
+- Equalized odds calculation  
+- Individual fairness metrics
+- Treatment equality analysis
+- Statistical significance testing
+- Systematic bias detection (temporal, contextual, algorithmic)
+
+### **4. Interactive Dashboard**
+- **5 Main Tabs**: Overview, Bias Clusters, Fairness Analysis, Temporal Analysis, Alerts
+- Real-time visualizations with Plotly
+- Filtering and data exploration
+- Alert management system
+- AI-generated recommendations
+
+## 🛠️ **Tech Stack**
+
+| Component | Technology |
+|-----------|------------|
+| **Backend** | Python, SQLite, scikit-learn |
+| **Frontend** | Streamlit, Plotly Dashboard |
+| **ML Algorithms** | K-Means, DBSCAN, Isolation Forest, PCA, t-SNE, UMAP |
+| **Data Processing** | Pandas, NumPy |
+| **Visualization** | Plotly, Seaborn, Matplotlib |
+| **Statistics** | SciPy, NetworkX |
+
+## 🚀 **Quick Start**
+
+```bash
+# Install dependencies
+pip install streamlit pandas numpy scikit-learn plotly seaborn matplotlib umap-learn networkx scipy
+
+# Run demo analysis
+python xai_platform.py
+
+# Launch interactive dashboard
+streamlit run xai_platform.py dashboard
+```
+
+## 📊 **Key Capabilities**
+
+### **Bias Detection**
+- **Algorithmic bias** patterns across agent types
+- **Selection bias** in decision contexts
+- **Confirmation bias** based on data quality
+- **Temporal bias** throughout different time periods
+
+### **Fairness Monitoring**
+- Real-time fairness violation alerts
+- Cross-agent type fairness comparison
+- Context-based bias analysis
+- Statistical significance testing for bias detection
+
+### **Visual Analytics**
+- Interactive cluster visualizations
+- Temporal pattern analysis
+- Agent performance comparisons
+- Anomaly highlighting and investigation
+
+## 🎭 **Production Features**
+
+✅ **Scalable Architecture**: Modular design for easy extension  
+✅ **Real-time Processing**: Live data streaming and analysis  
+✅ **Comprehensive Logging**: Full decision audit trail  
+✅ **Alert System**: Automated fairness violation detection  
+✅ **Statistical Rigor**: Hypothesis testing and significance analysis  
+✅ **Interactive UI**: User-friendly dashboard with filtering  
+✅ **Export Capabilities**: Data and visualization export  
+
+This is a complete, enterprise-ready system that demonstrates advanced unsupervised ML techniques for ethical AI monitoring. The platform can be deployed locally or in the cloud, and easily extended for specific use cases or integrated with existing agent systems.
 
 ## 📝 Citation
 
