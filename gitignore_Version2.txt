@@ -1,0 +1,25 @@
+# Python and Streamlit
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.DS_Store
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Ngrok
+ngrok.log
+ngrok-debug.log
+
+# VSCode/IDE
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+
+# Environment
+.env
