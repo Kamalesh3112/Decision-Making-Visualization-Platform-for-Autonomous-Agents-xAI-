@@ -55,6 +55,9 @@ This project provides an interactive and intuitive platform for visualizing and 
 
 ---
 
+<img width="1905" height="978" alt="image" src="https://github.com/user-attachments/assets/d05cfcfb-7ce3-4042-8a6d-bc965f6aefaa" />
+
+
 ## 📊 Example Use Cases
 
 - Visualize how autonomous vehicles make navigation decisions
