@@ -90,11 +90,7 @@ To enable external access to the Streamlit app running in Colab, **ngrok** is us
 
 ---
 
-🎤 Complete Streamlit dashboard implementation and remaining components got added here to make this as a fully functional end-to-end system. 
-
-Comprehensive, production-ready **Decision-Making Visualization Platform for Autonomous Agents** using unsupervised ML. 
-
-###Here's what this complete end-to-end system includes: 🔽
+ere's what this complete end-to-end system includes: 🔽
 
 ## 🎯 **Core Features**
 
