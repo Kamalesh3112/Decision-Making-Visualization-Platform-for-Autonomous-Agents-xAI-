@@ -90,7 +90,7 @@ To enable external access to the Streamlit app running in Colab, **ngrok** is us
 
 ---
 
-ere's what this complete end-to-end system includes: 🔽
+Here's what this complete end-to-end system includes: 🔽
 
 ## 🎯 **Core Features**
 
