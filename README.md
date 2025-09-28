@@ -193,7 +193,7 @@ Feel free to submit pull requests or open issues.
 
 ## 📬 Contact
 
-For questions or collaboration, reach out via [GitHub Issues](https://github.com/Kamalesh3112/Decision-Making-Visualization-Platform-for-Autonomous-Agents-xAI-/issues) or [Gmail](kamalesh.sselvaraj@gmail.com)
+For questions or collaboration, reach out via [GitHub Issues](https://github.com/Kamalesh3112/Decision-Making-Visualization-Platform-for-Autonomous-Agents-xAI-/issues) or kamalesh.sselvaraj@gmail.com
 
 ---
 
